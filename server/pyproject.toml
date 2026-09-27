@@ -18,7 +18,7 @@ classifiers = [
 # URL dependencies — to publish there, release claude-rc-api first and change
 # this to a version specifier (e.g. "claude-rc-api>=0.1").
 dependencies = [
-    "claude-rc-api @ git+https://github.com/ThatCrispyToast/claude-rc-api",
+    "claude-rc-api @ git+https://github.com/bkdev98/claude-rc-api",
 ]
 
 [project.urls]
